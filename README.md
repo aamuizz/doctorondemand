@@ -1,4 +1,5 @@
 <h1>Doctor on Demand</h1>
+[![Known Vulnerabilities](https://snyk.io/test/github/amuizz20/doctorondemand/badge.svg?targetFile=app/build.gradle)](https://snyk.io/test/github/amuizz20/doctorondemand?targetFile=app/build.gradle)
 An Android application made to be used by doctors and the patients.
 
 <h2>Images</h2>
