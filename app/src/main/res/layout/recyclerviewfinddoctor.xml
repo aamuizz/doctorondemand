@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/rlayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    >
+    <TextView
+        android:id="@+id/tvicon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:background="@mipmap/doctor"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/tvdrname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/tvicon"
+        android:layout_toRightOf="@id/tvicon"
+        android:textSize="18sp"
+        android:text="Doctor Name"
+        android:textStyle="bold"
+        android:textColor="@color/materialdark"
+        />
+    <TextView
+        android:id="@+id/tvspecialization"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvdrname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/tvicon"
+        android:layout_toRightOf="@id/tvicon"
+        android:text="Specialization"
+        android:textColor="@color/materialdark"
+        />
+    <TextView
+        android:id="@+id/onlineicon"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/tvspecialization"
+        android:layout_toEndOf="@+id/tvicon"
+        android:layout_toRightOf="@+id/tvicon"
+        android:background="@drawable/ic_brightness_1_black_24dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/statuschecker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvspecialization"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/onlineicon"
+        android:layout_toRightOf="@id/onlineicon"
+        android:text="Online"
+        />
+    <TextView
+        android:id="@+id/tvaddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/materialdark"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/tvemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/materialdark"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/tvphoneno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/materialdark"
+        android:visibility="gone"
+        />
+
+
+
+
+
+</RelativeLayout>

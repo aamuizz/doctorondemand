@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:gravity="center">
+    <TextView
+        android:id="@+id/suggestiontview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Are You Sure You Want to Log out?"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/materialdark"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+</RelativeLayout>

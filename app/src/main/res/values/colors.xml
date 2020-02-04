@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="orange">#FF8C00</color>
+    <color name="white">#ffffff</color>
+    <color name="materialdark">#363636</color>
+    <color name="lightgray">#ededed</color>
+    <color name="maincolor">#00497c</color>
+    <color name="signupcolor">#FF7F50</color>
+    <color name="logincolor">#1e90ff</color>
+    <color name="limegreen">#00FF00</color>
+    <color name="red">#FF0000</color>
+    <color name="profilecolor">#67EFC8</color>
+    <color name="profilecolor2">#63C9FF</color>
+</resources>
