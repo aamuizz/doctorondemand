@@ -1,4 +1,4 @@
-Doctor on Demand
+<h1><b>Doctor on Demand<b></h1>
 An Android application made to be used by doctors and the patients.
 
 <h2><b>Images</b><h2>
