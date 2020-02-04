@@ -24,10 +24,10 @@ An Android application made to be used by doctors and the patients.
 </p>
 
 <h2><b>Running Instructions</b><h2>
-This Application uses Firebase Services. After running the app, please remove the google-services.json file from the app and add yours.
+<p>This Application uses Firebase Services. After running the app, please remove the google-services.json file from the app and add yours.</p>
 
 <h2><b>License</b><h2>
-MIT License
+<p>MIT License
 
 Copyright (c) 2019 Abdul Muizz
 
@@ -48,3 +48,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+</p>
