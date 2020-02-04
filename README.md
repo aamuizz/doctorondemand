@@ -1,7 +1,7 @@
-<h1><b>Doctor on Demand</b></h1>
+<h1>Doctor on Demand</h1>
 An Android application made to be used by doctors and the patients.
 
-<h2><b>Images</b><h2>
+<h2>Images</h2>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/33664562/73770360-1d49c480-479e-11ea-96a0-c7fe5ccb3d85.png"  width="230" height="400" />
 <img src="https://user-images.githubusercontent.com/33664562/73770886-0d7eb000-479f-11ea-9476-56fa99218988.png"  width="230" height="400" />
@@ -23,11 +23,11 @@ An Android application made to be used by doctors and the patients.
 
 </p>
 
-<h2><b>Running Instructions</b><h2>
-<p>This Application uses Firebase Services. After running the app, please remove the google-services.json file from the app and add yours.</p>
+<h2>Running Instructions</h2>
+This Application uses Firebase Services. After running the app, please remove the google-services.json file from the app and add yours.
 
-<h2><b>License</b><h2>
-<p>MIT License
+<h2>License</h2>
+MIT License
 
 Copyright (c) 2019 Abdul Muizz
 
@@ -48,4 +48,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</p>
+
