@@ -12,16 +12,16 @@ An Android application made to be used by doctors and the patients.
 </p>
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/33664562/73771202-b9c09680-479f-11ea-95ca-b39245146ece.png"  width="230" height="400" />
-<img src="https://user-images.githubusercontent.com/33664562/73771242-d1981a80-479f-11ea-841f-9c8b548fda7d.png"  width="230" height="400" />
-<img src="https://user-images.githubusercontent.com/33664562/73771273-e379bd80-479f-11ea-8035-fad4f6f97606.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780624-c3507480-342b-11eb-8fd2-0e8b5a219702.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780668-d19e9080-342b-11eb-989f-8d09112586b9.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780709-dfecac80-342b-11eb-8b2f-38d0c8f8d16f.png"  width="230" height="400" />
 
 </p>
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/33664562/73771315-f8565100-479f-11ea-8098-f4c3cdd0644a.png"  width="230" height="400" />
-<img src="https://user-images.githubusercontent.com/33664562/73771352-0ad08a80-47a0-11ea-982e-b06bfeea98b6.png"  width="230" height="400" />
-<img src="https://user-images.githubusercontent.com/33664562/73771405-2471d200-47a0-11ea-8f65-3c524023a501.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780763-f266e600-342b-11eb-9664-5f4ac0db1b11.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780791-fd217b00-342b-11eb-8b37-3c04d2d6daa3.png"  width="230" height="400" />
+<img src="https://user-images.githubusercontent.com/33664562/100780821-0874a680-342c-11eb-906e-c96d1d6d6bf1.png"  width="230" height="400" />
 
 </p>
 
